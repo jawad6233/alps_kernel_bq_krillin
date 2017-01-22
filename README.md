@@ -29,9 +29,9 @@
   
   * First, made a folder for cm kernel and enter to it:
 
-        $ mkdir CM_KERNEL
+        $ mkdir AOSP_KERNEL
 
-        $ cd CM_KERNEL
+        $ cd AOSP_KERNEL
 
   * Then, clone the project: 
 
